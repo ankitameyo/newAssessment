@@ -1,0 +1,9 @@
+package questions;
+
+import java.io.IOException;
+
+public class Fibonacci implements Solutions{
+
+	
+
+}

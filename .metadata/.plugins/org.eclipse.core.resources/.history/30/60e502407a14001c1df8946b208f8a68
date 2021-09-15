@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-13T05:08:52.840824139Z</date>
+  <millis>1631509732840</millis>
+  <nanos>824139</nanos>
+  <sequence>0</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer4a</method>
+  <thread>1</thread>
+  <message>printing fibonacchi</message>
+</record>
+</log>

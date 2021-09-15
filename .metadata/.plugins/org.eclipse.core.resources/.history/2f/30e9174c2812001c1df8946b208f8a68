@@ -1,0 +1,15 @@
+package main;
+
+import questions.Service;
+
+public class Application {
+	
+public static Service servc;
+
+	public static void main(String args[]) {
+		servc.testMethod("this is it");
+		System.out.print("Hello world!");
+		
+	}
+
+}

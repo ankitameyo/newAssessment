@@ -1,0 +1,24 @@
+package main;
+
+import java.io.IOException;
+
+import questions.Solutions;
+import questions.SolutionsImpl;
+
+public class Application {
+	
+
+	public static void main(String args[]) throws SecurityException, IOException {
+		System.out.print("Hello world!");
+		Solutions sol=new SolutionsImpl();
+		sol.defans("Ankit");
+		sol.answer1(4);
+		sol.answer2("aabcdaafhbdr");
+		sol.answer3();
+		//sol.answer4a();
+		sol.answer4b();
+		
+		
+	}
+
+}

@@ -1,0 +1,82 @@
+package questions;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Random;
+import java.util.logging.FileHandler;
+import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
+
+public class SolutionsImpl implements Solutions {
+	
+	Logger logger = Logger.getLogger(SolutionsImpl.class.getName());
+	
+	public void setup(int close) throws SecurityException, IOException {
+	    FileHandler fileHandler = new FileHandler("/home/ankitmourya/eclipse-workspace/JavaBasicAssignment_Ankit_Mourya/src/questions/logfile.log", false);  
+	    SimpleFormatter sf = new SimpleFormatter();
+	    fileHandler.setFormatter(sf);
+	    logger.addHandler(fileHandler);
+	    logger.setUseParentHandlers(false);
+	}
+	
+	public void answer1(int arg) {
+		int a=0;
+		int b=0;
+		for(int x=arg;x>0;x--){
+			
+			for(int j=x-1;j>0;j--) {
+				System.out.print(" ");
+			}
+			int k=b;
+			while(Math.abs(k)<=a) {
+				System.out.print(Math.abs(k));
+				k-=1;
+			}
+			a=a+1;
+			b=b+1;
+			System.out.println("");
+				
+			
+		}
+	}
+	
+	public void answer2(String arg){
+		HashMap<Character,Integer> map =new HashMap<>();
+		for(int x=arg.length()-1;x>=0;x--) {
+			if(!map.containsKey(arg.charAt(x))) {
+				System.out.print(arg.charAt(x));
+				map.put(arg.charAt(x),1);
+			}
+		}
+		System.out.println("");
+	}
+	
+	public void answer3() {
+		Random rd=new Random();
+		int[] arr=new int[100];
+		for(int i=0;i<arr.length;i++) {
+			arr[i]=rd.nextInt();
+			System.out.print(arr[i]);
+		}
+		System.out.println("");
+		for(int x:arr) {
+			System.out.print(x);
+		}
+		
+	}
+	
+	public void answer4a() throws SecurityException, IOException{
+		this.setup();
+		int[] arr=new int[50];
+		arr[0]=1;arr[1]=1;
+		for(int i=2;i<50;i++) {
+			arr[i]=arr[i-1]+arr[i-2];
+		}
+	    logger.info(String.valueOf(arr));
+		
+		
+	}
+	
+
+
+}

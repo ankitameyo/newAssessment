@@ -1,0 +1,2428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-13T07:36:34.071485864Z</date>
+  <millis>1631518594071</millis>
+  <nanos>485864</nanos>
+  <sequence>0</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>Printing random integer array using i=0 style of loop</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.121435210Z</date>
+  <millis>1631518594121</millis>
+  <nanos>435210</nanos>
+  <sequence>1</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>9</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.122138870Z</date>
+  <millis>1631518594122</millis>
+  <nanos>138870</nanos>
+  <sequence>2</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>858</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.122759059Z</date>
+  <millis>1631518594122</millis>
+  <nanos>759059</nanos>
+  <sequence>3</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>494</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.123390010Z</date>
+  <millis>1631518594123</millis>
+  <nanos>390010</nanos>
+  <sequence>4</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>698</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.123962349Z</date>
+  <millis>1631518594123</millis>
+  <nanos>962349</nanos>
+  <sequence>5</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>366</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.124576098Z</date>
+  <millis>1631518594124</millis>
+  <nanos>576098</nanos>
+  <sequence>6</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>792</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.125188099Z</date>
+  <millis>1631518594125</millis>
+  <nanos>188099</nanos>
+  <sequence>7</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>387</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.125745699Z</date>
+  <millis>1631518594125</millis>
+  <nanos>745699</nanos>
+  <sequence>8</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>154</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.126364572Z</date>
+  <millis>1631518594126</millis>
+  <nanos>364572</nanos>
+  <sequence>9</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>399</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.126898440Z</date>
+  <millis>1631518594126</millis>
+  <nanos>898440</nanos>
+  <sequence>10</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>221</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.127435360Z</date>
+  <millis>1631518594127</millis>
+  <nanos>435360</nanos>
+  <sequence>11</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>161</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.127945064Z</date>
+  <millis>1631518594127</millis>
+  <nanos>945064</nanos>
+  <sequence>12</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>169</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.128460362Z</date>
+  <millis>1631518594128</millis>
+  <nanos>460362</nanos>
+  <sequence>13</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>702</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.128947905Z</date>
+  <millis>1631518594128</millis>
+  <nanos>947905</nanos>
+  <sequence>14</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>932</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.129426556Z</date>
+  <millis>1631518594129</millis>
+  <nanos>426556</nanos>
+  <sequence>15</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.129968443Z</date>
+  <millis>1631518594129</millis>
+  <nanos>968443</nanos>
+  <sequence>16</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>243</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.130535992Z</date>
+  <millis>1631518594130</millis>
+  <nanos>535992</nanos>
+  <sequence>17</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>266</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.131079334Z</date>
+  <millis>1631518594131</millis>
+  <nanos>79334</nanos>
+  <sequence>18</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>510</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.131670518Z</date>
+  <millis>1631518594131</millis>
+  <nanos>670518</nanos>
+  <sequence>19</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>455</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.132224111Z</date>
+  <millis>1631518594132</millis>
+  <nanos>224111</nanos>
+  <sequence>20</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>913</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.132954629Z</date>
+  <millis>1631518594132</millis>
+  <nanos>954629</nanos>
+  <sequence>21</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>915</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.133535250Z</date>
+  <millis>1631518594133</millis>
+  <nanos>535250</nanos>
+  <sequence>22</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>404</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.134088302Z</date>
+  <millis>1631518594134</millis>
+  <nanos>88302</nanos>
+  <sequence>23</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>452</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.134645364Z</date>
+  <millis>1631518594134</millis>
+  <nanos>645364</nanos>
+  <sequence>24</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>471</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.135208986Z</date>
+  <millis>1631518594135</millis>
+  <nanos>208986</nanos>
+  <sequence>25</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>434</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.135765818Z</date>
+  <millis>1631518594135</millis>
+  <nanos>765818</nanos>
+  <sequence>26</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>388</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.137397684Z</date>
+  <millis>1631518594137</millis>
+  <nanos>397684</nanos>
+  <sequence>27</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>200</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.137942337Z</date>
+  <millis>1631518594137</millis>
+  <nanos>942337</nanos>
+  <sequence>28</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>502</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.138483932Z</date>
+  <millis>1631518594138</millis>
+  <nanos>483932</nanos>
+  <sequence>29</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>587</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.139083604Z</date>
+  <millis>1631518594139</millis>
+  <nanos>83604</nanos>
+  <sequence>30</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>540</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.139843633Z</date>
+  <millis>1631518594139</millis>
+  <nanos>843633</nanos>
+  <sequence>31</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>118</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.140418833Z</date>
+  <millis>1631518594140</millis>
+  <nanos>418833</nanos>
+  <sequence>32</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>858</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.141006624Z</date>
+  <millis>1631518594141</millis>
+  <nanos>6624</nanos>
+  <sequence>33</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>888</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.141500497Z</date>
+  <millis>1631518594141</millis>
+  <nanos>500497</nanos>
+  <sequence>34</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>221</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.142032653Z</date>
+  <millis>1631518594142</millis>
+  <nanos>32653</nanos>
+  <sequence>35</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>670</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.142490829Z</date>
+  <millis>1631518594142</millis>
+  <nanos>490829</nanos>
+  <sequence>36</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>653</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.142972247Z</date>
+  <millis>1631518594142</millis>
+  <nanos>972247</nanos>
+  <sequence>37</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>787</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.143497868Z</date>
+  <millis>1631518594143</millis>
+  <nanos>497868</nanos>
+  <sequence>38</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>951</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.144031194Z</date>
+  <millis>1631518594144</millis>
+  <nanos>31194</nanos>
+  <sequence>39</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>194</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.144498808Z</date>
+  <millis>1631518594144</millis>
+  <nanos>498808</nanos>
+  <sequence>40</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>242</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.144951095Z</date>
+  <millis>1631518594144</millis>
+  <nanos>951095</nanos>
+  <sequence>41</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>263</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.145422204Z</date>
+  <millis>1631518594145</millis>
+  <nanos>422204</nanos>
+  <sequence>42</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>226</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.145885843Z</date>
+  <millis>1631518594145</millis>
+  <nanos>885843</nanos>
+  <sequence>43</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>669</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.146326030Z</date>
+  <millis>1631518594146</millis>
+  <nanos>326030</nanos>
+  <sequence>44</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>142</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.146892148Z</date>
+  <millis>1631518594146</millis>
+  <nanos>892148</nanos>
+  <sequence>45</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>724</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.147321811Z</date>
+  <millis>1631518594147</millis>
+  <nanos>321811</nanos>
+  <sequence>46</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>492</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.147815100Z</date>
+  <millis>1631518594147</millis>
+  <nanos>815100</nanos>
+  <sequence>47</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>88</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.148238584Z</date>
+  <millis>1631518594148</millis>
+  <nanos>238584</nanos>
+  <sequence>48</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>449</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.148681906Z</date>
+  <millis>1631518594148</millis>
+  <nanos>681906</nanos>
+  <sequence>49</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>493</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.149127777Z</date>
+  <millis>1631518594149</millis>
+  <nanos>127777</nanos>
+  <sequence>50</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>31</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.149699437Z</date>
+  <millis>1631518594149</millis>
+  <nanos>699437</nanos>
+  <sequence>51</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>914</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.150121048Z</date>
+  <millis>1631518594150</millis>
+  <nanos>121048</nanos>
+  <sequence>52</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>339</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.150541836Z</date>
+  <millis>1631518594150</millis>
+  <nanos>541836</nanos>
+  <sequence>53</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>391</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.150998258Z</date>
+  <millis>1631518594150</millis>
+  <nanos>998258</nanos>
+  <sequence>54</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>930</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.151473876Z</date>
+  <millis>1631518594151</millis>
+  <nanos>473876</nanos>
+  <sequence>55</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>940</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.151940040Z</date>
+  <millis>1631518594151</millis>
+  <nanos>940040</nanos>
+  <sequence>56</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>945</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.152484288Z</date>
+  <millis>1631518594152</millis>
+  <nanos>484288</nanos>
+  <sequence>57</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>601</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.153024055Z</date>
+  <millis>1631518594153</millis>
+  <nanos>24055</nanos>
+  <sequence>58</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>615</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.153583778Z</date>
+  <millis>1631518594153</millis>
+  <nanos>583778</nanos>
+  <sequence>59</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>182</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.153999477Z</date>
+  <millis>1631518594153</millis>
+  <nanos>999477</nanos>
+  <sequence>60</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>598</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.154413180Z</date>
+  <millis>1631518594154</millis>
+  <nanos>413180</nanos>
+  <sequence>61</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>19</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.154810372Z</date>
+  <millis>1631518594154</millis>
+  <nanos>810372</nanos>
+  <sequence>62</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>253</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.155315176Z</date>
+  <millis>1631518594155</millis>
+  <nanos>315176</nanos>
+  <sequence>63</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>201</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.155785541Z</date>
+  <millis>1631518594155</millis>
+  <nanos>785541</nanos>
+  <sequence>64</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>206</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.156193470Z</date>
+  <millis>1631518594156</millis>
+  <nanos>193470</nanos>
+  <sequence>65</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>500</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.156597207Z</date>
+  <millis>1631518594156</millis>
+  <nanos>597207</nanos>
+  <sequence>66</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>444</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.157038146Z</date>
+  <millis>1631518594157</millis>
+  <nanos>38146</nanos>
+  <sequence>67</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>26</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.157479719Z</date>
+  <millis>1631518594157</millis>
+  <nanos>479719</nanos>
+  <sequence>68</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>806</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.158075725Z</date>
+  <millis>1631518594158</millis>
+  <nanos>75725</nanos>
+  <sequence>69</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>468</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.158651021Z</date>
+  <millis>1631518594158</millis>
+  <nanos>651021</nanos>
+  <sequence>70</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>957</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.159067390Z</date>
+  <millis>1631518594159</millis>
+  <nanos>67390</nanos>
+  <sequence>71</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>352</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.159793561Z</date>
+  <millis>1631518594159</millis>
+  <nanos>793561</nanos>
+  <sequence>72</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>295</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.160244879Z</date>
+  <millis>1631518594160</millis>
+  <nanos>244879</nanos>
+  <sequence>73</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>154</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.160750318Z</date>
+  <millis>1631518594160</millis>
+  <nanos>750318</nanos>
+  <sequence>74</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>708</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.161271626Z</date>
+  <millis>1631518594161</millis>
+  <nanos>271626</nanos>
+  <sequence>75</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>34</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.161668664Z</date>
+  <millis>1631518594161</millis>
+  <nanos>668664</nanos>
+  <sequence>76</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.162090114Z</date>
+  <millis>1631518594162</millis>
+  <nanos>90114</nanos>
+  <sequence>77</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>155</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.162505881Z</date>
+  <millis>1631518594162</millis>
+  <nanos>505881</nanos>
+  <sequence>78</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>70</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.162906389Z</date>
+  <millis>1631518594162</millis>
+  <nanos>906389</nanos>
+  <sequence>79</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>264</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.163295141Z</date>
+  <millis>1631518594163</millis>
+  <nanos>295141</nanos>
+  <sequence>80</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>469</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.163752247Z</date>
+  <millis>1631518594163</millis>
+  <nanos>752247</nanos>
+  <sequence>81</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>304</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.164123761Z</date>
+  <millis>1631518594164</millis>
+  <nanos>123761</nanos>
+  <sequence>82</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>100</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.164514156Z</date>
+  <millis>1631518594164</millis>
+  <nanos>514156</nanos>
+  <sequence>83</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>516</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.164903665Z</date>
+  <millis>1631518594164</millis>
+  <nanos>903665</nanos>
+  <sequence>84</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>788</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.165270221Z</date>
+  <millis>1631518594165</millis>
+  <nanos>270221</nanos>
+  <sequence>85</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>386</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.165678068Z</date>
+  <millis>1631518594165</millis>
+  <nanos>678068</nanos>
+  <sequence>86</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>514</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.166206346Z</date>
+  <millis>1631518594166</millis>
+  <nanos>206346</nanos>
+  <sequence>87</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>844</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.166589876Z</date>
+  <millis>1631518594166</millis>
+  <nanos>589876</nanos>
+  <sequence>88</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>562</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.166991419Z</date>
+  <millis>1631518594166</millis>
+  <nanos>991419</nanos>
+  <sequence>89</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>325</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.167390070Z</date>
+  <millis>1631518594167</millis>
+  <nanos>390070</nanos>
+  <sequence>90</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>217</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.167767600Z</date>
+  <millis>1631518594167</millis>
+  <nanos>767600</nanos>
+  <sequence>91</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>736</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.168183749Z</date>
+  <millis>1631518594168</millis>
+  <nanos>183749</nanos>
+  <sequence>92</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>94</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.168729949Z</date>
+  <millis>1631518594168</millis>
+  <nanos>729949</nanos>
+  <sequence>93</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>134</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.169099424Z</date>
+  <millis>1631518594169</millis>
+  <nanos>99424</nanos>
+  <sequence>94</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>120</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.169477851Z</date>
+  <millis>1631518594169</millis>
+  <nanos>477851</nanos>
+  <sequence>95</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>754</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.169854835Z</date>
+  <millis>1631518594169</millis>
+  <nanos>854835</nanos>
+  <sequence>96</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>363</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.170214363Z</date>
+  <millis>1631518594170</millis>
+  <nanos>214363</nanos>
+  <sequence>97</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>762</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.170594388Z</date>
+  <millis>1631518594170</millis>
+  <nanos>594388</nanos>
+  <sequence>98</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>290</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.170954818Z</date>
+  <millis>1631518594170</millis>
+  <nanos>954818</nanos>
+  <sequence>99</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>407</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.171394312Z</date>
+  <millis>1631518594171</millis>
+  <nanos>394312</nanos>
+  <sequence>100</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>512</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.171757556Z</date>
+  <millis>1631518594171</millis>
+  <nanos>757556</nanos>
+  <sequence>101</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>Printing random integer array using i=0 style of loop</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.172116757Z</date>
+  <millis>1631518594172</millis>
+  <nanos>116757</nanos>
+  <sequence>102</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>9</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.172504848Z</date>
+  <millis>1631518594172</millis>
+  <nanos>504848</nanos>
+  <sequence>103</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>858</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.172866873Z</date>
+  <millis>1631518594172</millis>
+  <nanos>866873</nanos>
+  <sequence>104</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>494</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.173228951Z</date>
+  <millis>1631518594173</millis>
+  <nanos>228951</nanos>
+  <sequence>105</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>698</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.173649162Z</date>
+  <millis>1631518594173</millis>
+  <nanos>649162</nanos>
+  <sequence>106</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>366</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.173997378Z</date>
+  <millis>1631518594173</millis>
+  <nanos>997378</nanos>
+  <sequence>107</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>792</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.174353126Z</date>
+  <millis>1631518594174</millis>
+  <nanos>353126</nanos>
+  <sequence>108</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>387</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.174702166Z</date>
+  <millis>1631518594174</millis>
+  <nanos>702166</nanos>
+  <sequence>109</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>154</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.175045953Z</date>
+  <millis>1631518594175</millis>
+  <nanos>45953</nanos>
+  <sequence>110</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>399</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.175432075Z</date>
+  <millis>1631518594175</millis>
+  <nanos>432075</nanos>
+  <sequence>111</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>221</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.175856761Z</date>
+  <millis>1631518594175</millis>
+  <nanos>856761</nanos>
+  <sequence>112</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>161</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.176207657Z</date>
+  <millis>1631518594176</millis>
+  <nanos>207657</nanos>
+  <sequence>113</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>169</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.176565275Z</date>
+  <millis>1631518594176</millis>
+  <nanos>565275</nanos>
+  <sequence>114</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>702</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.176897895Z</date>
+  <millis>1631518594176</millis>
+  <nanos>897895</nanos>
+  <sequence>115</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>932</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.177244126Z</date>
+  <millis>1631518594177</millis>
+  <nanos>244126</nanos>
+  <sequence>116</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.177591521Z</date>
+  <millis>1631518594177</millis>
+  <nanos>591521</nanos>
+  <sequence>117</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>243</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.178131204Z</date>
+  <millis>1631518594178</millis>
+  <nanos>131204</nanos>
+  <sequence>118</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>266</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.178539146Z</date>
+  <millis>1631518594178</millis>
+  <nanos>539146</nanos>
+  <sequence>119</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>510</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.178882429Z</date>
+  <millis>1631518594178</millis>
+  <nanos>882429</nanos>
+  <sequence>120</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>455</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.179216881Z</date>
+  <millis>1631518594179</millis>
+  <nanos>216881</nanos>
+  <sequence>121</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>913</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.179555933Z</date>
+  <millis>1631518594179</millis>
+  <nanos>555933</nanos>
+  <sequence>122</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>915</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.179887341Z</date>
+  <millis>1631518594179</millis>
+  <nanos>887341</nanos>
+  <sequence>123</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>404</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.180409148Z</date>
+  <millis>1631518594180</millis>
+  <nanos>409148</nanos>
+  <sequence>124</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>452</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.180759842Z</date>
+  <millis>1631518594180</millis>
+  <nanos>759842</nanos>
+  <sequence>125</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>471</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.181100333Z</date>
+  <millis>1631518594181</millis>
+  <nanos>100333</nanos>
+  <sequence>126</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>434</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.181467068Z</date>
+  <millis>1631518594181</millis>
+  <nanos>467068</nanos>
+  <sequence>127</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>388</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.181896402Z</date>
+  <millis>1631518594181</millis>
+  <nanos>896402</nanos>
+  <sequence>128</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>200</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.182230751Z</date>
+  <millis>1631518594182</millis>
+  <nanos>230751</nanos>
+  <sequence>129</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>502</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.182658875Z</date>
+  <millis>1631518594182</millis>
+  <nanos>658875</nanos>
+  <sequence>130</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>587</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.182984186Z</date>
+  <millis>1631518594182</millis>
+  <nanos>984186</nanos>
+  <sequence>131</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>540</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.183337576Z</date>
+  <millis>1631518594183</millis>
+  <nanos>337576</nanos>
+  <sequence>132</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>118</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.183667041Z</date>
+  <millis>1631518594183</millis>
+  <nanos>667041</nanos>
+  <sequence>133</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>858</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.183996595Z</date>
+  <millis>1631518594183</millis>
+  <nanos>996595</nanos>
+  <sequence>134</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>888</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.184330209Z</date>
+  <millis>1631518594184</millis>
+  <nanos>330209</nanos>
+  <sequence>135</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>221</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.184757673Z</date>
+  <millis>1631518594184</millis>
+  <nanos>757673</nanos>
+  <sequence>136</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>670</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.185135676Z</date>
+  <millis>1631518594185</millis>
+  <nanos>135676</nanos>
+  <sequence>137</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>653</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.185476265Z</date>
+  <millis>1631518594185</millis>
+  <nanos>476265</nanos>
+  <sequence>138</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>787</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.185795863Z</date>
+  <millis>1631518594185</millis>
+  <nanos>795863</nanos>
+  <sequence>139</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>951</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.186127049Z</date>
+  <millis>1631518594186</millis>
+  <nanos>127049</nanos>
+  <sequence>140</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>194</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.186464091Z</date>
+  <millis>1631518594186</millis>
+  <nanos>464091</nanos>
+  <sequence>141</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>242</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.186950971Z</date>
+  <millis>1631518594186</millis>
+  <nanos>950971</nanos>
+  <sequence>142</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>263</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.187289531Z</date>
+  <millis>1631518594187</millis>
+  <nanos>289531</nanos>
+  <sequence>143</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>226</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.187614671Z</date>
+  <millis>1631518594187</millis>
+  <nanos>614671</nanos>
+  <sequence>144</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>669</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.187947565Z</date>
+  <millis>1631518594187</millis>
+  <nanos>947565</nanos>
+  <sequence>145</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>142</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.188262165Z</date>
+  <millis>1631518594188</millis>
+  <nanos>262165</nanos>
+  <sequence>146</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>724</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.188605227Z</date>
+  <millis>1631518594188</millis>
+  <nanos>605227</nanos>
+  <sequence>147</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>492</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.188927012Z</date>
+  <millis>1631518594188</millis>
+  <nanos>927012</nanos>
+  <sequence>148</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>88</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.189325466Z</date>
+  <millis>1631518594189</millis>
+  <nanos>325466</nanos>
+  <sequence>149</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>449</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.189657319Z</date>
+  <millis>1631518594189</millis>
+  <nanos>657319</nanos>
+  <sequence>150</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>493</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.189985644Z</date>
+  <millis>1631518594189</millis>
+  <nanos>985644</nanos>
+  <sequence>151</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>31</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.190347770Z</date>
+  <millis>1631518594190</millis>
+  <nanos>347770</nanos>
+  <sequence>152</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>914</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.190692455Z</date>
+  <millis>1631518594190</millis>
+  <nanos>692455</nanos>
+  <sequence>153</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>339</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.191013173Z</date>
+  <millis>1631518594191</millis>
+  <nanos>13173</nanos>
+  <sequence>154</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>391</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.191420742Z</date>
+  <millis>1631518594191</millis>
+  <nanos>420742</nanos>
+  <sequence>155</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>930</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.191787292Z</date>
+  <millis>1631518594191</millis>
+  <nanos>787292</nanos>
+  <sequence>156</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>940</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.192114898Z</date>
+  <millis>1631518594192</millis>
+  <nanos>114898</nanos>
+  <sequence>157</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>945</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.192431432Z</date>
+  <millis>1631518594192</millis>
+  <nanos>431432</nanos>
+  <sequence>158</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>601</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.192742344Z</date>
+  <millis>1631518594192</millis>
+  <nanos>742344</nanos>
+  <sequence>159</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>615</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.193082206Z</date>
+  <millis>1631518594193</millis>
+  <nanos>82206</nanos>
+  <sequence>160</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>182</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.193555707Z</date>
+  <millis>1631518594193</millis>
+  <nanos>555707</nanos>
+  <sequence>161</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>598</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.193878184Z</date>
+  <millis>1631518594193</millis>
+  <nanos>878184</nanos>
+  <sequence>162</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>19</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.194258428Z</date>
+  <millis>1631518594194</millis>
+  <nanos>258428</nanos>
+  <sequence>163</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>253</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.194622887Z</date>
+  <millis>1631518594194</millis>
+  <nanos>622887</nanos>
+  <sequence>164</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>201</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.194926213Z</date>
+  <millis>1631518594194</millis>
+  <nanos>926213</nanos>
+  <sequence>165</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>206</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.195244843Z</date>
+  <millis>1631518594195</millis>
+  <nanos>244843</nanos>
+  <sequence>166</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>500</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.195652262Z</date>
+  <millis>1631518594195</millis>
+  <nanos>652262</nanos>
+  <sequence>167</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>444</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.195959963Z</date>
+  <millis>1631518594195</millis>
+  <nanos>959963</nanos>
+  <sequence>168</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>26</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.196273349Z</date>
+  <millis>1631518594196</millis>
+  <nanos>273349</nanos>
+  <sequence>169</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>806</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.196647434Z</date>
+  <millis>1631518594196</millis>
+  <nanos>647434</nanos>
+  <sequence>170</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>468</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.197072201Z</date>
+  <millis>1631518594197</millis>
+  <nanos>72201</nanos>
+  <sequence>171</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>957</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.197398024Z</date>
+  <millis>1631518594197</millis>
+  <nanos>398024</nanos>
+  <sequence>172</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>352</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.197789859Z</date>
+  <millis>1631518594197</millis>
+  <nanos>789859</nanos>
+  <sequence>173</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>295</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.198112935Z</date>
+  <millis>1631518594198</millis>
+  <nanos>112935</nanos>
+  <sequence>174</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>154</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.198431420Z</date>
+  <millis>1631518594198</millis>
+  <nanos>431420</nanos>
+  <sequence>175</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>708</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.198741097Z</date>
+  <millis>1631518594198</millis>
+  <nanos>741097</nanos>
+  <sequence>176</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>34</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.199043185Z</date>
+  <millis>1631518594199</millis>
+  <nanos>43185</nanos>
+  <sequence>177</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.199358243Z</date>
+  <millis>1631518594199</millis>
+  <nanos>358243</nanos>
+  <sequence>178</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>155</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.199715748Z</date>
+  <millis>1631518594199</millis>
+  <nanos>715748</nanos>
+  <sequence>179</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>70</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.200018874Z</date>
+  <millis>1631518594200</millis>
+  <nanos>18874</nanos>
+  <sequence>180</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>264</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.200327591Z</date>
+  <millis>1631518594200</millis>
+  <nanos>327591</nanos>
+  <sequence>181</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>469</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.200633896Z</date>
+  <millis>1631518594200</millis>
+  <nanos>633896</nanos>
+  <sequence>182</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>304</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.200950491Z</date>
+  <millis>1631518594200</millis>
+  <nanos>950491</nanos>
+  <sequence>183</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>100</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.201252785Z</date>
+  <millis>1631518594201</millis>
+  <nanos>252785</nanos>
+  <sequence>184</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>516</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.201742535Z</date>
+  <millis>1631518594201</millis>
+  <nanos>742535</nanos>
+  <sequence>185</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>788</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.202060784Z</date>
+  <millis>1631518594202</millis>
+  <nanos>60784</nanos>
+  <sequence>186</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>386</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.202379742Z</date>
+  <millis>1631518594202</millis>
+  <nanos>379742</nanos>
+  <sequence>187</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>514</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.202685695Z</date>
+  <millis>1631518594202</millis>
+  <nanos>685695</nanos>
+  <sequence>188</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>844</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.203015463Z</date>
+  <millis>1631518594203</millis>
+  <nanos>15463</nanos>
+  <sequence>189</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>562</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.203333281Z</date>
+  <millis>1631518594203</millis>
+  <nanos>333281</nanos>
+  <sequence>190</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>325</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.203823295Z</date>
+  <millis>1631518594203</millis>
+  <nanos>823295</nanos>
+  <sequence>191</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>217</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.204152164Z</date>
+  <millis>1631518594204</millis>
+  <nanos>152164</nanos>
+  <sequence>192</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>736</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.204483594Z</date>
+  <millis>1631518594204</millis>
+  <nanos>483594</nanos>
+  <sequence>193</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>94</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.204803727Z</date>
+  <millis>1631518594204</millis>
+  <nanos>803727</nanos>
+  <sequence>194</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>134</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.205114743Z</date>
+  <millis>1631518594205</millis>
+  <nanos>114743</nanos>
+  <sequence>195</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>120</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.205415868Z</date>
+  <millis>1631518594205</millis>
+  <nanos>415868</nanos>
+  <sequence>196</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>754</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.205778753Z</date>
+  <millis>1631518594205</millis>
+  <nanos>778753</nanos>
+  <sequence>197</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>363</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.206073004Z</date>
+  <millis>1631518594206</millis>
+  <nanos>73004</nanos>
+  <sequence>198</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>762</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.206386328Z</date>
+  <millis>1631518594206</millis>
+  <nanos>386328</nanos>
+  <sequence>199</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>290</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.206699721Z</date>
+  <millis>1631518594206</millis>
+  <nanos>699721</nanos>
+  <sequence>200</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>407</message>
+</record>
+<record>
+  <date>2021-09-13T07:36:34.207029951Z</date>
+  <millis>1631518594207</millis>
+  <nanos>29951</nanos>
+  <sequence>201</sequence>
+  <logger>questions.SolutionsImpl</logger>
+  <level>INFO</level>
+  <class>questions.SolutionsImpl</class>
+  <method>answer3</method>
+  <thread>1</thread>
+  <message>512</message>
+</record>
+</log>

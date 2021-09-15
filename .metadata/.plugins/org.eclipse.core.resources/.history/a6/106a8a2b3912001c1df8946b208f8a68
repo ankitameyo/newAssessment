@@ -1,0 +1,8 @@
+package questions;
+
+public interface Solutions {
+
+	public  default void defans(String arg) {
+		System.out.print("default answer");
+	}
+}

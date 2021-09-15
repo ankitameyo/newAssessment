@@ -1,0 +1,32 @@
+Sep 13, 2021 2:54:06 PM solution.SolutionsImpl tablePrint
+INFO: Printing table for 10
+Sep 13, 2021 2:54:17 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 1 = 10
+Sep 13, 2021 2:54:19 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 2 = 20
+Sep 13, 2021 3:00:52 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 3 = 30
+Sep 13, 2021 3:04:47 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 4 = 40
+Sep 13, 2021 3:06:56 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 5 = 50
+Sep 13, 2021 3:07:09 PM solution.SolutionsImpl tablePrint
+INFO:  10 x 6 = 60
+Sep 13, 2021 3:07:20 PM solution.SolutionsImpl tablePrint
+INFO: Printing table for 10
+Sep 13, 2021 3:07:23 PM solution.SolutionsImpl tablePrint
+INFO:  13 x 1 = 13
+Sep 13, 2021 3:07:25 PM solution.SolutionsImpl tablePrint
+INFO:  13 x 2 = 26
+Sep 13, 2021 3:07:58 PM solution.SolutionsImpl tablePrint
+INFO: Printing table for 13
+Sep 13, 2021 3:08:04 PM solution.SolutionsImpl tablePrint
+INFO:  13 x 1 = 13
+Sep 13, 2021 3:08:15 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 2 = 26
+Sep 13, 2021 3:08:18 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 3 = 48
+Sep 13, 2021 3:08:26 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 4 = 64
+Sep 13, 2021 3:08:27 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 5 = 80

@@ -1,0 +1,33 @@
+package main;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import questions.Solutions;
+import questions.SolutionsImpl;
+
+public class Application {
+	
+
+	public static void main(String args[]) throws SecurityException, IOException {
+		Scanner sc=new Scanner(System.in);
+		int loop=1;
+		while(loop==1) {
+			System.out.println("Enter the question number you want to execute: \n 1# Printing Pyramid of numbers. \n 2# Print all the characters present in the given string only once in a reverse order:");
+			System.out.println(" 3# Instantiate an int array of size 100. Populate it with random values. \n 4# Write a java program to display a  Fibonacci sequence (iterative approach).\n 5# Write a java program to display a  Fibonacci sequence (recursive approach).\n 6# Print the table of a given number.");
+
+			loop=0;
+		}
+		System.out.print("Hello world!");
+		Solutions sol=new SolutionsImpl();
+		sol.defans("Ankit");
+		sol.answer1(4);
+		sol.answer2("aabcdaafhbdr");
+		sol.answer3();
+		//sol.answer4a();
+		sol.answer4b();
+		
+		
+	}
+
+}

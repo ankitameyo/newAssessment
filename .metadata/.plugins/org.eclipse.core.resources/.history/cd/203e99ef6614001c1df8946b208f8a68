@@ -1,0 +1,102 @@
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: Printing fibonacci sequence with iterative approach :
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 2
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 3
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 5
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 8
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 13
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 21
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 34
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 55
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 89
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 144
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 233
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 377
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 610
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 987
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1597
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 2584
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 4181
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 6765
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 10946
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 17711
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 28657
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 46368
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 75025
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 121393
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 196418
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 317811
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 514229
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 832040
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1346269
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 2178309
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 3524578
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 5702887
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 9227465
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 14930352
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 24157817
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 39088169
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 63245986
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 102334155
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 165580141
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 267914296
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 433494437
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 701408733
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1134903170
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 1836311903
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 2971215073
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 4807526976
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 7778742049
+Sep 13, 2021 1:08:43 PM questions.SolutionsImpl answer4a
+INFO: 12586269025

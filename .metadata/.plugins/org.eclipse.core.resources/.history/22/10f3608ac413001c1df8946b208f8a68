@@ -1,0 +1,3 @@
+module javaBasicAssignment_Ankit_Mourya {
+	requires org.junit.jupiter.api;
+}

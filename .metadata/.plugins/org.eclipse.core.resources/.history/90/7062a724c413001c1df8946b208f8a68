@@ -1,0 +1,28 @@
+package questions;
+
+public class SolutionsImpl implements Solutions {
+	
+	
+	
+	public void answer1(int arg) {
+		int a=0;
+		int b=0;
+		for(int x=arg;x>0;x--){
+			
+			for(int j=x-1;j>0;j--) {
+				System.out.print(" ");
+			}
+			int k=b;
+			while(Math.abs(k)<=a) {
+				System.out.print(Math.abs(k));
+				k-=1;
+			}
+			a=a+1;
+			b=b+1;
+			System.out.println("");
+				
+			
+		}
+	}
+
+}

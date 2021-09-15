@@ -1,0 +1,20 @@
+package questions;
+
+import java.io.IOException;
+
+public interface Solutions {
+
+	public void answer1(int arg);
+	
+	public void answer2(String arg);
+	
+	public void answer3();
+	
+	public void answer4a() throws SecurityException, IOException;
+	
+	public void answer4b() throws  IOException ;
+	
+	public void executeQuestion(int x) throws  IOException ;
+	
+
+}

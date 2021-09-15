@@ -1,0 +1,7 @@
+package implementation;
+
+import abstractClass.Calculator;
+
+public class Sum extends Calculator{
+
+}

@@ -1,0 +1,12 @@
+package main;
+
+import questions.Service;
+
+public class Application {
+	
+Service servc;
+	public static void main(String args[]) {
+		System.out.print("Hello world!");
+	}
+
+}

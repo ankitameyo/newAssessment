@@ -1,0 +1,10 @@
+package questions;
+
+public class Service {
+	
+	public String testMethod(String x ){
+		System.out.println(x);
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+Sep 13, 2021 3:07:58 PM solution.SolutionsImpl tablePrint
+INFO: Printing table for 13
+Sep 13, 2021 3:08:04 PM solution.SolutionsImpl tablePrint
+INFO:  13 x 1 = 13
+Sep 13, 2021 3:08:15 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 2 = 26
+Sep 13, 2021 3:08:18 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 3 = 48
+Sep 13, 2021 3:08:26 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 4 = 64
+Sep 13, 2021 3:08:27 PM solution.SolutionsImpl tablePrint
+INFO:  16 x 5 = 80

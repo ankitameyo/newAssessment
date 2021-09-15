@@ -1,0 +1,22 @@
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO: Printing table for 11
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 1 = 11
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 2 = 22
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 3 = 33
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 4 = 44
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 5 = 55
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 6 = 66
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 7 = 77
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 8 = 88
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 9 = 99
+Sep 13, 2021 1:59:06 PM questions.SolutionsImpl tablePrint
+INFO:  11 x 10 = 110
